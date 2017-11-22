@@ -1,6 +1,6 @@
 # ThreeJS DEMO
 
-Demo可在静态服务器上运行
+Demo可下载后在静态服务器上运行
 
 ------ Three_comm.js 编写的公用threejs方法（未整理完成）
 
